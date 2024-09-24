@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(75, 61, 61);
+    background-color: rgb(92, 74, 74);
     text-align: center;
 }
 p{
-    color: azure;
+    color: rgb(197, 211, 211);
 }
 .mme {
-    color: rgba(214, 26, 26, 0.685);
+    color: rgba(207, 22, 22, 0.685);
     font-size: 50px ;
 }
 .img {
